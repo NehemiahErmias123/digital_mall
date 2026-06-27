@@ -2,7 +2,7 @@
 
 A multi-role online mall management system built with vanilla PHP and MySQL — customers browse and order from multiple shops, shop owners manage their own storefront, and an admin oversees the whole platform.
 
-Live demo: digitalmall.freedev.app
+Live demo: digitalmall.freedev.app/login.php
 
 ### Demo Credentials
 
